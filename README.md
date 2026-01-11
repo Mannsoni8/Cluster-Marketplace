@@ -1,5 +1,6 @@
 # Cluster-Marketplace
 The project focuses on designing a high-trust, guided decision flow that helps hardware startup founders confidently assemble execution-ready local teams instead of navigating traditional hiring marketplaces.
+
 Prototype - https://www.figma.com/design/hYriSkumd8a8LHf3CVNH45/Start-info?node-id=0-1&t=FzTtDdmCqfcAdeRn-1
 
 🧠 Problem Context
